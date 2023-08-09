@@ -1,4 +1,6 @@
 # Statistical Calculator
+The source code `StatisticalCalculator.java` is under `src/main/java` and the test code `StatisticalCalculatorTest.java`
+is under `src/test/java`.
 ## User Story
 This program is s statistical calculator where user can type integers and get statistical values:
 mean, median, standard deviation, and sample size.
